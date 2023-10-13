@@ -1,0 +1,36 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: FFT_Feature
+message: Protoype library deploying the SIR metric algorithm
+type: software
+authors:
+  - given-names: Tomás
+    email: tomas.j.lopes@inesctec.pt
+    affiliation: INESC TEC
+    family-names: Lopes
+  - given-names: 'Diana '
+    family-names: Capela
+    affiliation: INESC TEC
+  - given-names: Miguel
+    name-particle: F.S.
+    family-names: Ferreira
+    affiliation: INESC TEC
+  - given-names: Diana
+    family-names: Guimarães
+    affiliation: INESC TEC
+  - given-names: Pedro
+    family-names: Jorge
+    name-particle: A.S.
+    affiliation: INESC TEC
+  - given-names: Nuno
+    family-names: Silva
+    name-particle: A.
+    affiliation: INESC TEC
+repository-code: 'https://github.com/official-zemeister/FFT_LIBS'
+abstract: Protoype library deploying the SIR metric algorithm
+keywords:
+  - Spectral Imaging
+  - Data Processing
+license: MIT
