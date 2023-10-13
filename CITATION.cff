@@ -3,7 +3,7 @@
 
 cff-version: 1.2.0
 title: FFT_Feature
-message: Protoype library deploying the SIR metric algorithm
+message: Protoype Code
 type: software
 authors:
   - given-names: Tomás
